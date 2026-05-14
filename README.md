@@ -1,22 +1,21 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
 
-  # Hi 👋, I'm John Raymark
+# Hi 👋, I'm John Raymark
 
-  <p>
-    🚀 Full Stack Developer • Mobile Developer • UI/UX Enthusiast
-  </p>
+### 🚀 Full Stack Developer • Mobile Developer • UI/UX Enthusiast
 
-  <a href="https://github.com/jhnrymrk">
-    <img src="https://komarev.com/ghpvc/?username=jhnrymrk&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-  </a>
+<a href="https://github.com/jhnrymrk">
+  <img src="https://komarev.com/ghpvc/?username=jhnrymrk&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💻 Languages and Tools
+## 💻 Languages and Tools
 
 </div>
 
@@ -70,11 +69,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="45" height="45"/>
 </a>
 
-<a href="https://www.postgresql.org" target="_blank">
+<a href="https://www.postgresql.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
 </a>
 
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </a>
 
@@ -88,15 +87,24 @@
 
 <div align="center">
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=jhnrymrk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jhnrymrk&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jhnrymrk&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=jhnrymrk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhnrymrk&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhnrymrk&layout=compact&theme=tokyonight&hide_border=true" 
+  height="180"
+/>
 
 </div>
 
@@ -104,7 +112,7 @@
 
 <div align="center">
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/marksuuuu/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -123,4 +131,3 @@
 ✨ <i>"Code. Create. Innovate."</i> ✨
 
 </div>
-```
